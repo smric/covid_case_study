@@ -1,1 +1,1 @@
-# covid_case_study
+# covid_casestudy
